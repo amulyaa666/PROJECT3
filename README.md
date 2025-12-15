@@ -69,13 +69,18 @@ Reduced dimensionality
 Faster computation
 
 Improved recognition accuracy
-```
+
+---
+
+
 ⚠️ Limitations
 
 Sensitive to lighting variations
 
 Performance depends on dataset size
-```
+
+---
+
 🔮 Future Scope
 
 Use CNN for higher accuracy
@@ -83,7 +88,9 @@ Use CNN for higher accuracy
 Real-time face recognition
 
 Larger datasets
-```
+
+---
+
 📄 Documentation
 
 Full project documentation is available in the documentation folder.
