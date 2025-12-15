@@ -53,7 +53,34 @@ This project was developed as part of the **Internship Studio Program**.
 ### Step 1: Install dependencies
 ```bash
 pip install -r requirements.txt
- python main.py
+ 
+### Step 2: Runs the Program
+```bash
+python main.py
+
+📂 Output
+
+Trained ANN model
+
+Recognition results printed in the console
+
+Accuracy vs k graph saved in the results/ folder
+
+🧪 Evaluation Metrics
+
+Recognition Accuracy
+
+Accuracy vs Number of Eigenfaces (k)
+
+📝 Notes
+
+Ensure proper lighting and frontal face images for better accuracy
+
+Performance may vary depending on dataset size and quality
+
+📄 Documentation
+
+Complete project documentation is available in the documentation folder.
 
 
 
