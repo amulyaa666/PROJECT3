@@ -53,5 +53,7 @@ This project was developed as part of the **Internship Studio Program**.
 ### Step 1: Install dependencies
 ```bash
 pip install -r requirements.txt
+ python main.py
+
 
 
