@@ -62,6 +62,8 @@ python main.py
 
 ```
 
+---
+
 ✅ Advantages
 
 Reduced dimensionality
